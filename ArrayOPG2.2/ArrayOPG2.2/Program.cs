@@ -75,7 +75,7 @@ namespace ArrayOPG2._2
                             //Getting lengt of list of malenames. checking if any of the name contain the letter user inputted above.
                             for (int i = 0; i < maleNames.Count; i++)
                             {
-                                //For loop that run until the count of male names.
+                                //For loop that run until the count of male names..
                                 if (maleNames[i].ToLower().IndexOf(searchChar) != -1)
                                 {
                                     Console.WriteLine(maleNames[i]);
