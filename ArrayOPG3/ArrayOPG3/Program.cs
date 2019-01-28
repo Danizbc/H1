@@ -24,7 +24,7 @@ namespace ArrayOPG3
                 Console.WriteLine(numbers[i]);
             }
 
-            //Sorting the list and printing out text, clearing console and such
+            //Sorting the list and printing out text, clearing console and such.
             Console.WriteLine("Not sorted. \n\n Pess any key to sort array");
             Console.ReadKey();
             Console.Clear();
