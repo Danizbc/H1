@@ -14,7 +14,7 @@ namespace MozartOPG
         {
             //Creating an random.
             Random ran = new Random();
-            //by using system.media i can get access to sound player
+            //by using system.media i can get access to sound player.
             SoundPlayer MusicPlayer = new SoundPlayer();
             //Making 2 list of strings
             List<string> MusicString = new List<string>();
