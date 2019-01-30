@@ -20,7 +20,7 @@ namespace MozartOPG
             List<string> MusicString = new List<string>();
             List<string> TrieonString = new List<string>();
 
-            //Adding all Music files    
+            //Adding all Music files.
             for (int i = 1; i < 177; i++)
             {
                 MusicString.Add("M" + i);

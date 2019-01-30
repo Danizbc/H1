@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOPG1.456", "MethodOPG1.456\MethodOPG1.456.csproj", "{93592617-B064-4124-A516-A8BE7A8F6CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93592617-B064-4124-A516-A8BE7A8F6CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93592617-B064-4124-A516-A8BE7A8F6CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93592617-B064-4124-A516-A8BE7A8F6CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93592617-B064-4124-A516-A8BE7A8F6CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3B35803-5ACA-43A8-9859-CF41F2BDBE77}
+	EndGlobalSection
+EndGlobal
